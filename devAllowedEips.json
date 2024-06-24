@@ -2,7 +2,7 @@
   {
     "mr_enclave": "2cc7e85a42d9e0f3ba8103e5e063065688e62c90a7f291f278979a24873c75bb",
     "mr_signer": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
-    "isv_prod_id": "0",
+    "isv_prod_id": "1",
     "isv_svn": "0",
     "buildVersion": "0.0.0-1026", 
     "semver": "0.0.0"
@@ -26,7 +26,7 @@
   {
     "mr_enclave": "5cf64dd4f537ea7f86885a1981b21603d063e6a2a21660f892a7fc41d7c86abe",
     "mr_signer": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
-    "isv_prod_id": "0",
+    "isv_prod_id": "1",
     "isv_svn": "0",
     "buildVersion": "0.0.0-1020", 
     "semver": "0.0.0"
