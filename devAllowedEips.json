@@ -5,7 +5,8 @@
     "isv_prod_id": "1",
     "isv_svn": "0",
     "buildVersion": "0.0.0-1026", 
-    "semver": "0.0.0"
+    "semver": "0.0.0",
+    "dateCreated": "2024-06-24T20:25:59Z"
   },
   {
     "mr_enclave": "5a9ea7fa67bfc6c62cc1518f6102cb002aca9318158a9b4c8800bcc8b58144a2",
@@ -13,7 +14,8 @@
     "isv_prod_id": "0",
     "isv_svn": "0",
     "buildVersion": "0.0.0-1026", 
-    "semver": "0.0.0"
+    "semver": "0.0.0",
+    "dateCreated": "2024-06-24T20:25:59Z"
   },
   {
     "mr_enclave": "b40ba68de0c72894400db305ff79a37b79481e0a86a7773aa87a4b0e83515a4f",
@@ -21,7 +23,8 @@
     "isv_prod_id": "0",
     "isv_svn": "0",
     "buildVersion": "0.0.0-1020", 
-    "semver": "0.0.0"
+    "semver": "0.0.0",
+    "dateCreated": "2024-06-24T20:25:59Z"
   },
   {
     "mr_enclave": "5cf64dd4f537ea7f86885a1981b21603d063e6a2a21660f892a7fc41d7c86abe",
@@ -29,7 +32,7 @@
     "isv_prod_id": "1",
     "isv_svn": "0",
     "buildVersion": "0.0.0-1020", 
-    "semver": "0.0.0"
+    "semver": "0.0.0",
+    "dateCreated": "2024-06-24T20:25:59Z"
   }
-
 ]
