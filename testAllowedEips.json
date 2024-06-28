@@ -2,7 +2,7 @@
   {
     "mrEnclave": "2cc7e85a42d9e0f3ba8103e5e063065688e62c90a7f291f278979a24873c75bb",
     "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
-    "isvProdId": "1",
+    "isvProdId": "3",
     "isvSvn": "0",
     "buildVersion": "0.0.0-1026", 
     "semver": "0.0.0",
