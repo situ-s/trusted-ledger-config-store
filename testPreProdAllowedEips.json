@@ -34,5 +34,23 @@
     "buildVersion": "0.2.0-717",
     "semver": "0.2.0",
     "dateCreated": "2024-07-01T10:56:06Z"
+  },
+  {
+    "mrEnclave": "ebcd82b158ddac763d735783897053076cb60798a0cc9ff9cf05fcfd9009119d",
+    "mrSigner": "6ace14d9840fcbfa72ad3162251844cc2926d5792b210a9c0d87b9de77167381",
+    "isvProdId": "0",
+    "isvSvn": "0",
+    "buildVersion": "pr-717",
+    "semver": "0.2.0",
+    "dateCreated": "2024-07-01T12:59:31Z"
+  },
+  {
+    "mrEnclave": "7ed9f75f3a6bf11670468a3fbff3939f7650041e9e91383c53fe37944ca037ca",
+    "mrSigner": "6ace14d9840fcbfa72ad3162251844cc2926d5792b210a9c0d87b9de77167381",
+    "isvProdId": "1",
+    "isvSvn": "0",
+    "buildVersion": "pr-717",
+    "semver": "0.2.0",
+    "dateCreated": "2024-07-01T12:59:34Z"
   }
 ]
