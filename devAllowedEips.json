@@ -9,10 +9,10 @@
     "dateCreated": "2024-06-24T20:25:59Z"
   },
   {
-    "mrEnclave": "5a9ea7fa67bfc6c62cc1518f6102cb002aca9318158a9b4c8800bcc8b58144a2",
-    "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
-    "isvProdId": "0",
-    "isvSvn": "0",
+    "mrEnclave": "e5a9e1201c2aeaa2dcd8783f50234c8993fdf9692c480b54351d976e8e4dcfcd",
+    "mrSigner": "6ace14d9840fcbfa72ad3162251844cc2926d5792b210a9c0d87b9de77167381",
+    "isvProdId": "0000",
+    "isvSvn": "0000",
     "buildVersion": "0.0.0-1026", 
     "semver": "0.0.0",
     "dateCreated": "2024-06-24T20:25:59Z"
