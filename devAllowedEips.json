@@ -1,6 +1,6 @@
 [
   {
-    "mrEnclave": "27546e06f2e81d0a2b2e09f4469eb68fc0cb6d542835e9d1f2e4d421bf798a88",
+    "mrEnclave": "9792148019d019f4436eec43533f9e732ffedfd34ddef3d1102182118f1ed6db",
     "mrSigner": "6ace14d9840fcbfa72ad3162251844cc2926d5792b210a9c0d87b9de77167381",
     "isvProdId": "0",
     "isvSvn": "0",
@@ -32,24 +32,6 @@
     "isvProdId": "1",
     "isvSvn": "0",
     "buildVersion": "0.0.0-1020", 
-    "semver": "0.0.0",
-    "dateCreated": "2024-06-24T20:25:59Z"
-  },
-  {
-    "mrEnclave": "4dddac2151b7d9156b6f339fd68fe3119b2db88e1533e9e01143ad2399f62eab",
-    "mrSigner": "6ace14d9840fcbfa72ad3162251844cc2926d5792b210a9c0d87b9de77167381",
-    "isvProdId": "0",
-    "isvSvn": "0",
-    "buildVersion": "0.0.0-1020", 
-    "semver": "0.0.0",
-    "dateCreated": "2024-06-24T20:25:59Z"
-  },
-  {
-    "mrEnclave": "66f31e77749891b735920a2a87b4fcf2a32abc1d14b3565dd4331f9ea9fbbefd",
-    "mrSigner": "6ace14d9840fcbfa72ad3162251844cc2926d5792b210a9c0d87b9de77167381",
-    "isvProdId": "0",
-    "isvSvn": "0",
-    "buildVersion": "0.0.0-1026", 
     "semver": "0.0.0",
     "dateCreated": "2024-06-24T20:25:59Z"
   }
